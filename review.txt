@@ -9,7 +9,7 @@ Osvrt na kolegij "Praktikum" na Fakultetu Informatike u Puli u ak. godini 2024/2
 - "Materijali" koji su nam pruženi nisu ništa više nego prvih n linkova sa Google-a i YouTube-a koje dobijete kad utipkate "Yolo algorithm".
 - Koja je onda svrha izvođača na kolegiju, ukoliko nam on samo proslijedi hrpu linkova na materijale koje su izradili drugi ljudi?
 - U poodmakloj fazi nastave odlučuje da seminar treba biti gotovo na nivou znanstvenog rada, iako su inicijalne informacije o seminaru glasile samo "u seminaru trebate ukratko opisati koje su bile faze u izradi projekta".
-- Na inicijalnu predaju seminara u LateX formatu odgovara samo sa "Molim vas da mi dostavite i Word verziju seminara", iako je seminar, realno, mogao biti pregledan i u LateX formatu.
+- Na inicijalnu predaju seminara napisanog u LateX-u i exportanog u PDF odgovara samo sa "Molim vas da mi dostavite i Word verziju seminara kako bih mogao napisati komentare", iako je seminar, realno, mogao biti pregledan i u LateX formatu, pošto je moguće dodavati komentare i na PDF.
 - Vraća seminar uz neke komentare u stilu: "trebate prebaciti seminar u 3. lice, dodati screenshotove aplikacije i sl." što i nije pretjerani problem, no također smatramo kako nije od ključne važnosti pošto se radi o projektu na FAKULTETU INFORMATIKE gdje je temeljni cilj kolegija trebao biti učenje o računalnom vidu, a ne učenje o pisanju seminara. Dakle, mogli smo dobiti ocjenu i bez gubljenja vremena na prepravku takvih sitnica.
 - Još dodaje komentar kako je rad "za sve pohvale".
 - Prijavili smo prvi rok, zato jer bi nam trebala biti pružena mogućnost da položimo svaki kolegij na prvom roku, ukoliko to želimo i jer smo odradili sve obveze koje su nam bile zadane od strane profesora.
