@@ -1,0 +1,25 @@
+Osvrt na kolegij "Praktikum" na Fakultetu Informatike u Puli u ak. godini 2024/25. kod dr.sc. Mate Krišta:
+- Iako je na početku nastave, na uvodnom satu, rekao kako ćemo zajedno raditi projekt korak po korak, nakon održanog 1 i pol predavanja promijenio je "plan" i rekao neka sami radimo na projektu te da će "nastava" služiti za postavljanje pitanja.
+- I ovo 1 i pol predavanje, iskreno, nije bilo od pretjerane koristi zbog izvođačevih poteškoća s internetom. (Iskreno, ne može se zamjerati ništa radi ove točke...ako internet ne radi, internet ne radi i to je ok)
+- Jedini input dobiven od izvođača kolegija na početku nastave bio je: "Trebate istrenirati yolo na custom datasetu, napraviti aplikaciju i napisati seminar".
+- Iako u "uputama" za kolegij piše kako se može koristiti bilo koji od algoritama/modela računalnog vida, na pitanje o uporabi drugih modela, govori kako je ipak moguće koristiti isključivo YOLO (mogli smo, koristeći DeepFace, CLIP, XCLIP ili nešto slično, napraviti puno kvalitetniju aplikaciju koja implemntira računalni vid, bez da izgubimo nekoliko dana na tuning YOLO-a)
+- Ukoliko se pitate kakvu aplikaciju, ne možemo vam odgovoriti, jer ni mi nismo dobili tu informaciju. Rečeno je samo da mora koristiti YOLO za prepoznavanje objekata.
+- Pitanje je kako bi "prosječan" student koji nije nikada radio aplikacije s uključenim AI modelima uspio realizirati takvu aplikaciju, s obzirom na to da izvođač na ovom kolegiju niti u 1 trenutku nije objasnio kako je implementirati. 
+- Fun fact: nismo vidjeli niti 1 liniju koda napisanu od strane izvođača kolegija tijekom cijelog semestra.
+- "Materijali" koji su nam pruženi nisu ništa više nego prvih n linkova sa Google-a i YouTube-a koje dobijete kad utipkate "Yolo algorithm".
+- Koja je onda svrha izvođača na kolegiju, ukoliko nam on samo proslijedi hrpu linkova?
+- U poodmakloj fazi nastave odlučuje da seminar treba biti gotovo na nivou znanstvenog rada, iako su inicijalne informacije o seminaru glasile samo "u seminaru trebate ukratko opisati koje su bile faze u izradi projekta".
+- Na inicijalnu predaju seminara u LateX formatu odgovara samo sa "Molim vas da mi dostavite i Word verziju seminara", iako je seminar, realno, mogao biti pregledan i u LateX formatu.
+- Vraća seminar uz neke komentare u stilu: "trebate prebaciti seminar u 3. lice, dodati screenshotove aplikacije i sl." što i nije pretjerani problem, no također smatramo kako nije od ključne važnosti pošto se radi o projektu na FAKULTETU INFORMATIKE gdje je temeljni cilj kolegija trebao biti učenje o računalnom vidu, a ne učenje o pisanju seminara. Dakle, mogli smo dobiti ocjenu i bez gubljenja vremena na prepravku takvih sitnica.
+- Još dodaje komentar kako je rad "za sve pohvale".
+- Prijavili smo prvi rok, zato jer bi nam trebala biti pružena mogućnost da položimo svaki kolegij na prvom roku, ukoliko to želimo i jer smo odradili sve obveze koje su nam bile zadane od strane profesora.
+- 3. veljače navečer na pitanje o ocjeni odgovara sa "Ne možemo baš tako komentirat ocjene...nemate puno ispravaka".
+- 4. veljače uploadamo ažurirani seminar na drive (yes, koristili smo drive kao sustav za verzioniranje datoteka, a ne github/gitlab...).
+- Istog dana izvođač kolegija odgovara "pogledat ću večeras".
+- 10. veljače, još uvijek nije dobiven nikakv feedback iako je još tjedan prije rekao kako će "pogledati večeras".
+- 11. veljače, nešto nakon ponoći kaže nam "javim sutra".
+- I dalje nije javio ocjenu te smo od prof. Miličića dobili informaciju kako mu je poslana četvorka kao ocjena, dok mi i dalje nismo dobili nikakav službeni feedback (ne znamo što nije bilo dobro, što se moglo bolje, gdje su bili problemi itd.).
+- Selektivno odgovara na poruke nekim studentima i ignorira druge.
+- Studenti koji su odradili svoj (ne baš precizno definirani) zadatak na vrijeme i u skladu s uputama te prijavili prvi rok (predviđen za 4. veljače), nisu dobili ocjenu te su moraju prijavljivati idući rok samo zato jer izvođač kolegija nije odradio svoj posao na vrijeme (što bi bilo da se, nekim slučajem, radilo o zadnjem roku i da nam je o ovom kolegiju ovisio nastavak studiranja?)
+- Kolegij s temom computer visiona ima jako puno potencijala za izradu kvalitetnih projekata i učenje raznih zanimljivih vještina i prava je šteta što nije ispunio ni djelić tog potencijala zbog toga što profesor (žao nam je što ovo moramo tako ružno reći) nije radio ništa. Zasigurno bismo stekli veće znanje da smo samostalno odgledali neki nasumični computer vision tutorial s YouTube-a.
+
